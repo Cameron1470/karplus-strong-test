@@ -1,0 +1,7 @@
+﻿  KarplusStrongTest.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\tgmath.h(27): warning UCRT4000: The Universal CRT implementation of tgmath.h does not conform to the C99 standard. Functionality equivalent to the type-generic functions provided by tgmath.h is available in <ctgmath> when compiling as C++. If compiling in C++17 mode or higher (/std:c++17), this header will automatically include <ctgmath> instead. You can define _CRT_SILENCE_NONCONFORMING_TGMATH_H to acknowledge that you have received this warning.
+C:\Users\csmit\AudioProgramming\KarplusStrongTest\KarplusStrongTest\PluckedNote.h(28,9): warning C4068: unknown pragma 'mark'
+C:\Users\csmit\AudioProgramming\KarplusStrongTest\KarplusStrongTest\PluckedNote.h(54,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\csmit\AudioProgramming\KarplusStrongTest\KarplusStrongTest\KarplusStrongTest.cpp(20,32): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\csmit\AudioProgramming\KarplusStrongTest\KarplusStrongTest\KarplusStrongTest.cpp(28,42): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  KarplusStrongTest.vcxproj -> C:\Users\csmit\AudioProgramming\KarplusStrongTest\Debug\KarplusStrongTest.exe
